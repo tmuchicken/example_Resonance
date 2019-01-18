@@ -1,4 +1,4 @@
-let audioContext;
+//let audioContext;
 let canvasControl;
 let scene;
 let audioElements = [];
